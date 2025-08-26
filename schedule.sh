@@ -1,6 +1,6 @@
 rm -f caimweb/archive/caimdb*
 mysqldump -uappuser -pcac_br1dge caimdb > caimweb/archive/caimdb.$(date +'%Y%m%d')
-mysql -uappuser -pcac_br1dge -Dcaimdb < schedule.sql
+# mysql -uappuser -pcac_br1dge -Dcaimdb < schedule.sql
 # git to save archive
 cd caimweb/archive
 # Add all changes to the staging area
