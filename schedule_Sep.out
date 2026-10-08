@@ -1,0 +1,1289 @@
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-02 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-02 18:28:22
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main bc8abdd] Automated backup on 2025-10-02 18:28:24
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+ rename caimdb.20250925 => caimdb.20251002 (99%)
+To https://github.com/abcanywhere/cac_archive.git
+   cc4ff94..bc8abdd  main -> main
+Current date and time: 2025-10-08 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-08 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-09 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main bfe35cf] Automated backup on 2025-10-09 16:30:08
+ 8 files changed, 13089 insertions(+), 585 deletions(-)
+ create mode 100644 2025-10-08.html
+ rename caimdb.20251002 => caimdb.20251009 (84%)
+ delete mode 100755 schedule.sh
+ delete mode 100644 schedule.sql
+ delete mode 100755 sqlbackup.sh
+To https://github.com/abcanywhere/cac_archive.git
+   bc8abdd..bfe35cf  main -> main
+Current date and time: 2025-10-15 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-16 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 5d167b5] Automated backup on 2025-10-16 16:30:06
+ 5 files changed, 12728 insertions(+), 556 deletions(-)
+ create mode 100644 2025-10-15.html
+ rename caimdb.20251009 => caimdb.20251016 (85%)
+To https://github.com/abcanywhere/cac_archive.git
+   bfe35cf..5d167b5  main -> main
+Current date and time: 2025-10-21 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-22 12:30:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-23 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main de9dd1c] Automated backup on 2025-10-23 16:30:06
+ 5 files changed, 13863 insertions(+), 694 deletions(-)
+ create mode 100644 2025-10-22.html
+ rename caimdb.20251016 => caimdb.20251023 (83%)
+To https://github.com/abcanywhere/cac_archive.git
+   5d167b5..de9dd1c  main -> main
+Current date and time: 2025-10-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-25 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-28 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-29 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-29 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-30 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 04c9e53] Automated backup on 2025-10-30 16:30:08
+ 1 file changed, 3 insertions(+), 6 deletions(-)
+ rename caimdb.20251023 => caimdb.20251030 (85%)
+To https://github.com/abcanywhere/cac_archive.git
+   de9dd1c..04c9e53  main -> main
+Current date and time: 2025-10-30 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-10-31 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-01 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-03 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-05 12:30:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-06 16:30:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main e6b2214] Automated backup on 2025-11-06 16:30:10
+ 5 files changed, 12242 insertions(+), 3778 deletions(-)
+ create mode 100644 2025-11-05.html
+ delete mode 100644 2025b_I.html
+ rename caimdb.20251030 => caimdb.20251106 (80%)
+To https://github.com/abcanywhere/cac_archive.git
+   04c9e53..e6b2214  main -> main
+Current date and time: 2025-11-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-08 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-10 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-11 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-12 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-13 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 076b168] Automated backup on 2025-11-13 16:30:08
+ 5 files changed, 16528 insertions(+), 243 deletions(-)
+ create mode 100644 2025-11-12.html
+ create mode 100644 2025b_I.html
+ rename caimdb.20251106 => caimdb.20251113 (80%)
+To https://github.com/abcanywhere/cac_archive.git
+   e6b2214..076b168  main -> main
+Current date and time: 2025-11-13 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-14 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-16 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-17 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-18 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-19 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-19 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-20 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 8d19aa5] Automated backup on 2025-11-20 16:30:08
+ 5 files changed, 13736 insertions(+), 503 deletions(-)
+ create mode 100644 2025-11-19.html
+ rename caimdb.20251113 => caimdb.20251120 (83%)
+To https://github.com/abcanywhere/cac_archive.git
+   076b168..8d19aa5  main -> main
+Current date and time: 2025-11-20 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-21 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-25 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-26 12:30:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-27 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 5243d75] Automated backup on 2025-11-27 16:30:06
+ 5 files changed, 14344 insertions(+), 812 deletions(-)
+ create mode 100644 2025-11-26.html
+ rename caimdb.20251120 => caimdb.20251127 (81%)
+To https://github.com/abcanywhere/cac_archive.git
+   8d19aa5..5243d75  main -> main
+Current date and time: 2025-11-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-28 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-29 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-11-30 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-01 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-03 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-03 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-04 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main ada23a7] Automated backup on 2025-12-04 16:30:07
+ 5 files changed, 16584 insertions(+), 812 deletions(-)
+ create mode 100644 2025-12-03.html
+ rename caimdb.20251127 => caimdb.20251204 (78%)
+To https://github.com/abcanywhere/cac_archive.git
+   5243d75..ada23a7  main -> main
+Current date and time: 2025-12-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-08 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-10 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-10 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-11 16:30:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main af37159] Automated backup on 2025-12-11 16:30:10
+ 5 files changed, 11701 insertions(+), 13631 deletions(-)
+ create mode 100644 2025-12-10.html
+ delete mode 100644 2025b_I.html
+ delete mode 100644 2025b_M.html
+ delete mode 100644 2025b_P.html
+ rename caimdb.20251204 => caimdb.20251211 (83%)
+To https://github.com/abcanywhere/cac_archive.git
+   ada23a7..af37159  main -> main
+Current date and time: 2025-12-11 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-13 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-14 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-16 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-17 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-17 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-18 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main f0ff8f8] Automated backup on 2025-12-18 16:30:10
+ 5 files changed, 27587 insertions(+), 8 deletions(-)
+ create mode 100644 2025-12-17.html
+ create mode 100644 2025b_I.html
+ create mode 100644 2025b_M.html
+ create mode 100644 2025b_P.html
+ rename caimdb.20251211 => caimdb.20251218 (84%)
+To https://github.com/abcanywhere/cac_archive.git
+   af37159..f0ff8f8  main -> main
+Current date and time: 2025-12-18 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-19 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-20 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-21 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-24 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-25 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 57a8933] Automated backup on 2025-12-25 16:30:07
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+ rename caimdb.20251218 => caimdb.20251225 (86%)
+To https://github.com/abcanywhere/cac_archive.git
+   f0ff8f8..57a8933  main -> main
+Current date and time: 2025-12-25 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-28 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-29 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-30 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-31 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2025-12-31 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-01 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main f33f84e] Automated backup on 2026-01-01 16:30:05
+ 1 file changed, 8 insertions(+), 5 deletions(-)
+ rename caimdb.20251225 => caimdb.20260101 (98%)
+To https://github.com/abcanywhere/cac_archive.git
+   57a8933..f33f84e  main -> main
+Current date and time: 2026-01-01 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-03 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-07 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-08 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main f3f28be] Automated backup on 2026-01-08 16:30:10
+ 5 files changed, 16757 insertions(+), 9 deletions(-)
+ create mode 100644 2026-01-07.html
+ create mode 100644 2026a_I.html
+ create mode 100644 2026a_M.html
+ create mode 100644 2026a_P.html
+ rename caimdb.20260101 => caimdb.20260108 (73%)
+To https://github.com/abcanywhere/cac_archive.git
+   f33f84e..f3f28be  main -> main
+Current date and time: 2026-01-08 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-10 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-11 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-13 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-14 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-14 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-15 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 59db653] Automated backup on 2026-01-15 16:30:06
+ 5 files changed, 13539 insertions(+), 278 deletions(-)
+ create mode 100644 2026-01-14.html
+ rename caimdb.20260108 => caimdb.20260115 (79%)
+To https://github.com/abcanywhere/cac_archive.git
+   f3f28be..59db653  main -> main
+Current date and time: 2026-01-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-16 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-17 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-18 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-19 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-20 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-21 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-21 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-22 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main eb96b93] Automated backup on 2026-01-22 16:30:05
+ 5 files changed, 13397 insertions(+), 1543 deletions(-)
+ create mode 100644 2026-01-21.html
+ delete mode 100644 2026a_I.html
+ delete mode 100644 2026a_P.html
+ rename caimdb.20260115 => caimdb.20260122 (84%)
+To https://github.com/abcanywhere/cac_archive.git
+   59db653..eb96b93  main -> main
+Current date and time: 2026-01-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-25 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-28 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 30: Table 'zcaimdb.matchshands' doesn't exist
+Failed to execute SQL file: caimweb/prematch.sql
+Current date and time: 2026-01-28 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-29 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main ff4f9d4] Automated backup on 2026-01-29 16:30:10
+ 5 files changed, 15546 insertions(+), 101 deletions(-)
+ create mode 100644 2026-01-28.html
+ create mode 100644 2026a_I.html
+ create mode 100644 2026a_P.html
+ rename caimdb.20260122 => caimdb.20260129 (83%)
+To https://github.com/abcanywhere/cac_archive.git
+   eb96b93..ff4f9d4  main -> main
+Current date and time: 2026-01-29 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-30 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-01-31 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-01 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-03 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-04 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 30: Table 'zcaimdb.matchshands' doesn't exist
+Failed to execute SQL file: caimweb/prematch.sql
+Current date and time: 2026-02-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-05 16:30:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main ff43354] Automated backup on 2026-02-05 16:30:07
+ 5 files changed, 14058 insertions(+), 301 deletions(-)
+ create mode 100644 2026-02-04.html
+ rename caimdb.20260129 => caimdb.20260205 (81%)
+To https://github.com/abcanywhere/cac_archive.git
+   ff4f9d4..ff43354  main -> main
+Current date and time: 2026-02-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-08 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-10 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-11 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 30: Table 'zcaimdb.matchshands' doesn't exist
+Failed to execute SQL file: caimweb/prematch.sql
+Current date and time: 2026-02-11 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-12 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main bf5f9d2] Automated backup on 2026-02-12 16:30:09
+ 5 files changed, 14193 insertions(+), 400 deletions(-)
+ create mode 100644 2026-02-11.html
+ rename caimdb.20260205 => caimdb.20260212 (84%)
+To https://github.com/abcanywhere/cac_archive.git
+   ff43354..bf5f9d2  main -> main
+Current date and time: 2026-02-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-13 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-14 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-16 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-17 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-18 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 30: Table 'zcaimdb.matchshands' doesn't exist
+Failed to execute SQL file: caimweb/prematch.sql
+Current date and time: 2026-02-18 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-19 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 4818dd0] Automated backup on 2026-02-19 16:30:06
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+ rename caimdb.20260212 => caimdb.20260219 (92%)
+To https://github.com/abcanywhere/cac_archive.git
+   bf5f9d2..4818dd0  main -> main
+Current date and time: 2026-02-19 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-20 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-21 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-22 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-25 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 30: Table 'zcaimdb.matchshands' doesn't exist
+Failed to execute SQL file: caimweb/prematch.sql
+Current date and time: 2026-02-25 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-26 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 81ed294] Automated backup on 2026-02-26 16:30:10
+ 5 files changed, 13028 insertions(+), 372 deletions(-)
+ create mode 100644 2026-02-25.html
+ rename caimdb.20260219 => caimdb.20260226 (89%)
+To https://github.com/abcanywhere/cac_archive.git
+   4818dd0..81ed294  main -> main
+Current date and time: 2026-02-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-27 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-02-28 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-01 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-03 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-04 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 30: Table 'zcaimdb.matchshands' doesn't exist
+Failed to execute SQL file: caimweb/prematch.sql
+Current date and time: 2026-03-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-05 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 5f7d62a] Automated backup on 2026-03-05 16:30:08
+ 5 files changed, 14031 insertions(+), 400 deletions(-)
+ create mode 100644 2026-03-04.html
+ rename caimdb.20260226 => caimdb.20260305 (88%)
+To https://github.com/abcanywhere/cac_archive.git
+   81ed294..5f7d62a  main -> main
+Current date and time: 2026-03-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-08 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-10 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-11 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 30: Table 'zcaimdb.matchshands' doesn't exist
+Failed to execute SQL file: caimweb/prematch.sql
+Current date and time: 2026-03-11 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-12 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 514f17f] Automated backup on 2026-03-12 16:30:09
+ 5 files changed, 14131 insertions(+), 500 deletions(-)
+ create mode 100644 2026-03-11.html
+ rename caimdb.20260305 => caimdb.20260312 (88%)
+To https://github.com/abcanywhere/cac_archive.git
+   5f7d62a..514f17f  main -> main
+Current date and time: 2026-03-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-13 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-14 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-16 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-17 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-18 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 30: Table 'zcaimdb.matchshands' doesn't exist
+Failed to execute SQL file: caimweb/prematch.sql
+Current date and time: 2026-03-18 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-19 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main d2b79fc] Automated backup on 2026-03-19 16:30:09
+ 5 files changed, 15312 insertions(+), 380 deletions(-)
+ create mode 100644 2026-03-18.html
+ rename caimdb.20260312 => caimdb.20260319 (86%)
+To https://github.com/abcanywhere/cac_archive.git
+   514f17f..d2b79fc  main -> main
+Current date and time: 2026-03-19 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-20 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-21 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-25 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-25 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-26 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main d4232a5] Automated backup on 2026-03-26 16:30:09
+ 6 files changed, 13551 insertions(+), 7485 deletions(-)
+ create mode 100644 2026-03-25.html
+ delete mode 100644 2026a_I.html
+ delete mode 100644 2026a_M.html
+ delete mode 100644 2026a_P.html
+ delete mode 100644 caimdb.20260319
+ create mode 100644 caimdb.20260326
+To https://github.com/abcanywhere/cac_archive.git
+   d2b79fc..d4232a5  main -> main
+Current date and time: 2026-03-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-28 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-29 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-30 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-03-31 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-01 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-01 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-02 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 24c0f7a] Automated backup on 2026-04-02 16:30:10
+ 7 files changed, 21859 insertions(+), 633 deletions(-)
+ create mode 100644 2026-04-01.html
+ create mode 100644 2026a_I.html
+ create mode 100644 2026a_M.html
+ create mode 100644 2026a_P.html
+ delete mode 100644 caimdb.20260326
+ create mode 100644 caimdb.20260402
+To https://github.com/abcanywhere/cac_archive.git
+   d4232a5..24c0f7a  main -> main
+Current date and time: 2026-04-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-03 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-08 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-08 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-09 16:30:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 4e07d78] Automated backup on 2026-04-09 16:30:12
+ 6 files changed, 13563 insertions(+), 1051 deletions(-)
+ create mode 100644 2026-04-08.html
+ delete mode 100644 caimdb.20260402
+ create mode 100644 caimdb.20260409
+To https://github.com/abcanywhere/cac_archive.git
+   24c0f7a..4e07d78  main -> main
+Current date and time: 2026-04-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-10 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-11 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-13 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-14 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-15 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-16 16:30:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main b84a0b2] Automated backup on 2026-04-16 16:30:13
+ 6 files changed, 13629 insertions(+), 1051 deletions(-)
+ create mode 100644 2026-04-15.html
+ delete mode 100644 caimdb.20260409
+ create mode 100644 caimdb.20260416
+To https://github.com/abcanywhere/cac_archive.git
+   4e07d78..b84a0b2  main -> main
+Current date and time: 2026-04-16 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-17 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-18 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-19 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-20 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-21 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-22 12:30:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-23 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 99522e3] Automated backup on 2026-04-23 16:30:07
+ 6 files changed, 13661 insertions(+), 1102 deletions(-)
+ create mode 100644 2026-04-22.html
+ delete mode 100644 caimdb.20260416
+ create mode 100644 caimdb.20260423
+To https://github.com/abcanywhere/cac_archive.git
+   b84a0b2..99522e3  main -> main
+Current date and time: 2026-04-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-25 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-28 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-29 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-29 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-04-30 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 4e15bad] Automated backup on 2026-04-30 16:30:09
+ 6 files changed, 16038 insertions(+), 1226 deletions(-)
+ create mode 100644 2026-04-29.html
+ delete mode 100644 caimdb.20260423
+ create mode 100644 caimdb.20260430
+To https://github.com/abcanywhere/cac_archive.git
+   99522e3..4e15bad  main -> main
+Current date and time: 2026-04-30 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-01 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-03 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-06 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-07 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main e061421] Automated backup on 2026-05-07 16:30:11
+ 6 files changed, 13708 insertions(+), 1103 deletions(-)
+ create mode 100644 2026-05-06.html
+ delete mode 100644 caimdb.20260430
+ create mode 100644 caimdb.20260507
+To https://github.com/abcanywhere/cac_archive.git
+   4e15bad..e061421  main -> main
+Current date and time: 2026-05-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-08 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-10 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-11 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-13 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-13 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-14 16:30:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 4f9c06c] Automated backup on 2026-05-14 16:30:07
+ 6 files changed, 14918 insertions(+), 1261 deletions(-)
+ create mode 100644 2026-05-13.html
+ delete mode 100644 caimdb.20260507
+ create mode 100644 caimdb.20260514
+To https://github.com/abcanywhere/cac_archive.git
+   e061421..4f9c06c  main -> main
+Current date and time: 2026-05-14 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-16 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-17 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-18 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-19 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-20 12:30:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-20 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-21 16:30:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main df4b3e3] Automated backup on 2026-05-21 16:30:12
+ 6 files changed, 14834 insertions(+), 1179 deletions(-)
+ create mode 100644 2026-05-20.html
+ delete mode 100644 caimdb.20260514
+ create mode 100644 caimdb.20260521
+To https://github.com/abcanywhere/cac_archive.git
+   4f9c06c..df4b3e3  main -> main
+Current date and time: 2026-05-21 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-25 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-27 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-28 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main d3d0175] Automated backup on 2026-05-28 16:30:09
+ 6 files changed, 15420 insertions(+), 1215 deletions(-)
+ create mode 100644 2026-05-27.html
+ delete mode 100644 caimdb.20260521
+ create mode 100644 caimdb.20260528
+To https://github.com/abcanywhere/cac_archive.git
+   df4b3e3..d3d0175  main -> main
+Current date and time: 2026-05-28 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-29 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-30 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-05-31 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-01 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-03 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-03 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-04 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main d420241] Automated backup on 2026-06-04 16:30:09
+ 6 files changed, 15635 insertions(+), 1344 deletions(-)
+ create mode 100644 2026-06-03.html
+ delete mode 100644 caimdb.20260528
+ create mode 100644 caimdb.20260604
+To https://github.com/abcanywhere/cac_archive.git
+   d3d0175..d420241  main -> main
+Current date and time: 2026-06-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-08 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-10 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-10 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-11 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 280602e] Automated backup on 2026-06-11 16:30:05
+ 6 files changed, 15299 insertions(+), 1522 deletions(-)
+ create mode 100644 2026-06-10.html
+ delete mode 100644 caimdb.20260604
+ create mode 100644 caimdb.20260611
+To https://github.com/abcanywhere/cac_archive.git
+   d420241..280602e  main -> main
+Current date and time: 2026-06-11 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-13 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-14 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-16 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-17 12:30:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-17 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-18 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main b9ac1d5] Automated backup on 2026-06-18 16:30:05
+ 6 files changed, 13513 insertions(+), 957 deletions(-)
+ create mode 100644 2026-06-17.html
+ delete mode 100644 caimdb.20260611
+ create mode 100644 caimdb.20260618
+To https://github.com/abcanywhere/cac_archive.git
+   280602e..b9ac1d5  main -> main
+Current date and time: 2026-06-18 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-19 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-20 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-21 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-24 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-25 16:30:02
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 06434ae] Automated backup on 2026-06-25 16:30:06
+ 6 files changed, 14759 insertions(+), 1508 deletions(-)
+ create mode 100644 2026-06-24.html
+ delete mode 100644 caimdb.20260618
+ create mode 100644 caimdb.20260625
+To https://github.com/abcanywhere/cac_archive.git
+   b9ac1d5..06434ae  main -> main
+Current date and time: 2026-06-25 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-28 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-29 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-06-30 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-01 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-01 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-02 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main cceb3ea] Automated backup on 2026-07-02 16:30:03
+ 2 files changed, 628 insertions(+), 631 deletions(-)
+ delete mode 100644 caimdb.20260625
+ create mode 100644 caimdb.20260702
+To https://github.com/abcanywhere/cac_archive.git
+   06434ae..cceb3ea  main -> main
+Current date and time: 2026-07-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-03 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-08 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-08 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-09 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 9d4e7b3] Automated backup on 2026-07-09 16:30:04
+ 6 files changed, 15149 insertions(+), 628 deletions(-)
+ create mode 100644 2026-07-08.html
+ create mode 100644 2026b_I.html
+ create mode 100644 2026b_M.html
+ create mode 100644 2026b_P.html
+ delete mode 100644 caimdb.20260702
+ create mode 100644 caimdb.20260709
+To https://github.com/abcanywhere/cac_archive.git
+   cceb3ea..9d4e7b3  main -> main
+Current date and time: 2026-07-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-10 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-11 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-13 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-14 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-15 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-16 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 7e85536] Automated backup on 2026-07-16 16:30:07
+ 6 files changed, 14725 insertions(+), 820 deletions(-)
+ create mode 100644 2026-07-15.html
+ delete mode 100644 caimdb.20260709
+ create mode 100644 caimdb.20260716
+To https://github.com/abcanywhere/cac_archive.git
+   9d4e7b3..7e85536  main -> main
+Current date and time: 2026-07-16 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-17 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-18 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-19 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-20 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-21 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-22 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-23 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 9d5c380] Automated backup on 2026-07-23 16:30:06
+ 6 files changed, 14702 insertions(+), 913 deletions(-)
+ create mode 100644 2026-07-22.html
+ delete mode 100644 caimdb.20260716
+ create mode 100644 caimdb.20260723
+To https://github.com/abcanywhere/cac_archive.git
+   7e85536..9d5c380  main -> main
+Current date and time: 2026-07-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-25 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-28 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-29 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-29 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-30 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 6223a47] Automated backup on 2026-07-30 16:30:03
+ 7 files changed, 13631 insertions(+), 1030 deletions(-)
+ create mode 100644 2026-07-29.html
+ delete mode 100644 caimdb.20260723
+ create mode 100644 caimdb.20260730
+To https://github.com/abcanywhere/cac_archive.git
+   9d5c380..6223a47  main -> main
+Current date and time: 2026-07-30 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-07-31 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-01 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-03 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-05 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-06 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main e4a4dda] Automated backup on 2026-08-06 16:30:05
+ 6 files changed, 13491 insertions(+), 953 deletions(-)
+ create mode 100644 2026-08-05.html
+ delete mode 100644 caimdb.20260730
+ create mode 100644 caimdb.20260806
+To https://github.com/abcanywhere/cac_archive.git
+   6223a47..e4a4dda  main -> main
+Current date and time: 2026-08-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-08 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-10 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-11 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-12 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-13 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main fb548c6] Automated backup on 2026-08-13 16:30:06
+ 6 files changed, 14286 insertions(+), 2216 deletions(-)
+ create mode 100644 2026-08-12.html
+ delete mode 100644 2026b_I.html
+ delete mode 100644 caimdb.20260806
+ create mode 100644 caimdb.20260813
+To https://github.com/abcanywhere/cac_archive.git
+   e4a4dda..fb548c6  main -> main
+Current date and time: 2026-08-13 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-14 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-16 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-17 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-18 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-19 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-19 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-20 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main ef910b1] Automated backup on 2026-08-20 16:30:05
+ 6 files changed, 17192 insertions(+), 885 deletions(-)
+ create mode 100644 2026-08-19.html
+ create mode 100644 2026b_I.html
+ delete mode 100644 caimdb.20260813
+ create mode 100644 caimdb.20260820
+To https://github.com/abcanywhere/cac_archive.git
+   fb548c6..ef910b1  main -> main
+Current date and time: 2026-08-20 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-21 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-24 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-25 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-26 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-27 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 92b1207] Automated backup on 2026-08-27 16:30:07
+ 7 files changed, 27890 insertions(+), 1044 deletions(-)
+ create mode 100644 2026-08-22.html
+ create mode 100644 2026-08-26.html
+ delete mode 100644 caimdb.20260820
+ create mode 100644 caimdb.20260827
+To https://github.com/abcanywhere/cac_archive.git
+   ef910b1..92b1207  main -> main
+Current date and time: 2026-08-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-28 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-29 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-30 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-08-31 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-01 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-02 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-02 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-03 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main d959d32] Automated backup on 2026-09-03 16:30:07
+ 6 files changed, 14766 insertions(+), 1099 deletions(-)
+ create mode 100644 2026-09-02.html
+ delete mode 100644 caimdb.20260827
+ create mode 100644 caimdb.20260903
+To https://github.com/abcanywhere/cac_archive.git
+   92b1207..d959d32  main -> main
+Current date and time: 2026-09-03 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-04 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-05 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-06 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-07 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-08 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-09 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-09 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-10 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 73d0f16] Automated backup on 2026-09-10 16:30:07
+ 6 files changed, 14819 insertions(+), 1180 deletions(-)
+ create mode 100644 2026-09-09.html
+ delete mode 100644 caimdb.20260903
+ create mode 100644 caimdb.20260910
+To https://github.com/abcanywhere/cac_archive.git
+   d959d32..73d0f16  main -> main
+Current date and time: 2026-09-10 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-11 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-12 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-13 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-14 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-15 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-16 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-16 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-17 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main 4b28fa6] Automated backup on 2026-09-17 16:30:06
+ 6 files changed, 13614 insertions(+), 1061 deletions(-)
+ create mode 100644 2026-09-16.html
+ delete mode 100644 caimdb.20260910
+ create mode 100644 caimdb.20260917
+To https://github.com/abcanywhere/cac_archive.git
+   73d0f16..4b28fa6  main -> main
+Current date and time: 2026-09-17 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-18 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-19 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-20 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-21 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-22 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-23 12:30:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-23 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-24 16:30:01
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+[main c670485] Automated backup on 2026-09-24 16:30:06
+ 6 files changed, 14839 insertions(+), 1215 deletions(-)
+ create mode 100644 2026-09-23.html
+ delete mode 100644 caimdb.20260917
+ create mode 100644 caimdb.20260924
+To https://github.com/abcanywhere/cac_archive.git
+   4b28fa6..c670485  main -> main
+Current date and time: 2026-09-24 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-25 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-26 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-27 21:00:01
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-28 21:00:02
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-29 21:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-30 12:30:01 prematch
+Executing SQL file: caimweb/prematch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-09-30 21:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
